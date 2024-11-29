@@ -1,3 +1,26 @@
+## point_cloud_msg_wrapper (humble) - 1.0.7-4
+
+The packages in the `point_cloud_msg_wrapper` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble point_cloud_msg_wrapper --override-release-repository-push-url git@github.com:revyos-ros/point_cloud_msg_wrapper-release.git` on `Fri, 29 Nov 2024 12:39:29 -0000`
+
+The `point_cloud_msg_wrapper` package was released.
+
+Version of package(s) in repository `point_cloud_msg_wrapper`:
+
+- upstream repository: https://gitlab.com/ApexAI/point_cloud_msg_wrapper
+- release repository: https://github.com/revyos-ros/point_cloud_msg_wrapper-release.git
+- rosdistro version: `1.0.7-3`
+- old version: `1.0.7-3`
+- new version: `1.0.7-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## point_cloud_msg_wrapper (jazzy) - 1.0.7-6
 
 The packages in the `point_cloud_msg_wrapper` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy point_cloud_msg_wrapper --override-release-repository-push-url git@github.com:revyos-ros/point_cloud_msg_wrapper-release` on `Mon, 24 Jun 2024 09:42:35 -0000`
