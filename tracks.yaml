@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/point_cloud_msg_wrapper-release
+release_repo_url: git@github.com:revyos-ros/point_cloud_msg_wrapper-release.git
 tracks:
   foxy:
     actions:
